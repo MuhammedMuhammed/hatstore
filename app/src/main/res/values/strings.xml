@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hat Store</string>
+    <string name="denied">access denied</string>
+</resources>
